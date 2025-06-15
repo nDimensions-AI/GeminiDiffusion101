@@ -71,7 +71,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the nDimension.Ai License. See `LICENSE.txt` for more information.
 
 ## 👤 Contact
 
