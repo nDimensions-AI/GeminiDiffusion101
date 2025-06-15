@@ -33,7 +33,7 @@ All you need is a modern web browser (like Google Chrome, Firefox, Safari, or Ed
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/nDimensions-AI/GeminiDiffusion101.git](https://github.com/nDimensions-AI/GeminiDiffusion101.git)
+    git clone https://github.com/nDimensions-AI/GeminiDiffusion101.git
     ```
 
 2.  **Navigate to the project directory:**
